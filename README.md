@@ -12,7 +12,7 @@
       #### KityMinder 是百度 FEX 团队的 f-cube 小组（原 UEditor 小组）的一款在线的脑图编辑工具。
 
     * https://github.com/hizzgdev/jsmind
-      #### jsMind is a pure javascript library for mindmap.
+      #### jsMind is a pure javascript library for mindmap.
 
 
 
@@ -44,4 +44,4 @@
 
 
 
-*Note:Mybe better with git submodule. *
+***Note:Mybe better with git submodule. ***
